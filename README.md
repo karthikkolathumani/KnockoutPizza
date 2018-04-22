@@ -1,4 +1,4 @@
-# KnockoutPizza
+# Knock Knock Pizza
 An automated Facebook messenger chatbot to order your favourite pizza!!
 
 The project uses primarily Node and IBM watson to understand the intent of the users.
